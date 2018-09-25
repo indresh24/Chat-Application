@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Insta</string>
+    <string name="SocialMedia">SocialMedia</string>
+    <string name="NewUser">New User</string>
+    <string name="Account">Have An Account</string>
+    <string name="username">Username:</string>
+    <string name="EnterYourUsername">Enter Your Username</string>
+    <string name="password">Password:</string>
+    <string name="Login">Login</string>
+    <string name="Text">Enter Your Text</string>
+    <string name="Confirms">Confirm</string>
+    <string name="Forgot">FORGOT PASSWORD ?</string>
+    <string name="Change">CHANGE PASSWORD </string>
+    <string name="Confirm">Confirm Password </string>
+    <string name="EnterYourEmail">Enter Your Email</string>
+    <string name="HaveAccount">Have Account</string>
+    <string name="Chat">Chat</string>
+    <string name="Continue">CONTINUE</string>
+    <string name="OTP">Enter Your OTP:</string>
+    <string name="OTPS">Enter Your OTP</string>
+    <string name="email">Email:</string>
+    <string name="goback">GO BACK </string>
+    <string name="Next">Next</string>
+    <string name="Mobile">Mobile:</string>
+    <string name="EnterMobile">Enter Your Mobile Number</string>
+    <string name="GetStarted">Get Started</string>
+    <string name="LogOut">LOGOUT</string>
+    <string name="Share">SHARE</string>
+    <string name="Send">SEND</string>
+    <string name="NoAccount">No Account?</string>
+    <string name="EnterYourPassword">Enter Your Password</string>
+    <string name="channelName">SendMessage</string>
+    <string name="channelID">SendMessages</string>
+    <string name="channelDescription">Send Push Notifications</string>
+    <string name="title_activity_navigation">navigation</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
